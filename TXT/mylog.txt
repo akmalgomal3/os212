@@ -2,3 +2,8 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub Related
+
+L00 Assignment #00
+L01 Assignment #01
+L02 Assignment #02
+L03 Assignment #03

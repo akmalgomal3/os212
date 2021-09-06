@@ -13,3 +13,4 @@ ZCZC W00 30 L07 Assignment #05
 ZCZC W00 100 L08 Zoom Meeting
 ZCZC W00 20 L09 Downloading VirtualBox
 ZCZC W00 20 L10 Raading for Week 1
+ZCZC W01 100 L02 Zoom Meeting

@@ -2,16 +2,21 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 20 L00 Assignment #00
-ZCZC W00 15 L01 GitHub Related
-ZCZC W00 45 L02 GitHub Pages related
-ZCZC W00 10 L03 Assignment #01
-ZCZC W00 10 L04 Assignment #02
-ZCZC W00 10 L05 Assignment #03
-ZCZC W00 10 L06 Assignment #04
-ZCZC W00 30 L07 Assignment #05
+ZCZC W00 20 L00 General, etc.
+ZCZC W00 15 L03 GitHub Related
+ZCZC W00 45 L04 GitHub Pages related
+ZCZC W00 10 L11 Assignment #01
+ZCZC W00 10 L12 Assignment #02
+ZCZC W00 10 L13 Assignment #03
+ZCZC W00 10 L14 Assignment #04
+ZCZC W00 30 L15 Assignment #05
 ZCZC W00 100 L02 Zoom Meeting
-ZCZC W00 20 L09 Downloading VirtualBox
-ZCZC W00 20 L10 Raading for Week 1
+ZCZC W01 5 L22 Quiz1_Week00 
+ZCZC W01 120 L08 AsDos: asking, etc.
 ZCZC W01 100 L02 Zoom Meeting
 ZCZC W01 151 L11 Virtual Box Install
+ZCZC W01 25 L11 Assignment #01 VirtualBox Guest Preparation
+ZCZC W01 25 L12 Assignment #02 Importing or Installing?
+ZCZC W01 25 L13 Assignment #03 The ATM Way: GSGS and Read
+ZCZC W01 25 L14 Assignment #04 Dress Up Your Virtual Guest
+ZCZC W01 25 L15 Assignment #05 SSH Keys and Git Cloning

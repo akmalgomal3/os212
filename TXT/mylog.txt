@@ -26,3 +26,17 @@ ZCZC W01 20 L16 Assignment #06 Dress Up Your GitHub Page
 ZCZC W01 30 L17 Assignment #07 Update mylog.txt
 ZCZC W01 40 L18 Assignment #08 More awk, bash, regex, sed
 ZCZC W01 35 L19 Assignment #09 OSC 10
+ZCZC W02 5 L22 Quiz1_Week01 
+ZCZC W02 15 L22 Quiz2_Week01 
+ZCZC W02 100 L02 Zoom Meetings
+ZCZC W02 18 L02 ZOOM meetings Q&A
+ZCZC W02 90 L11 Assignment #01 Read OSC10 chapter 16 + 17
+ZCZC W02 160 L12 Assignment #02
+ZCZC W02 260 L13 Assignment #03 Watch: Cyber Security Introduction part 1 and the begining of part 2.
+ZCZC W02 55 L14 Assignment #04
+ZCZC W02 50 L15 Assignment #05
+ZCZC W02 60 L16 Assignment #06
+ZCZC W02 45 L17 Assignment #07
+ZCZC W02 60 L19 Assignment #09
+ZCZC W02 60 L20 Assignment #10
+ZCZC W02 180 L31 VirtualBox: install GNU/Linux, etc.

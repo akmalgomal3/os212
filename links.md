@@ -15,7 +15,9 @@ Video tutorial for coding using javascript. This video is in Indonesian uploaded
 YouTube video (again) from "Programmer Zaman Now" (again) which contains a tutorial on how to use github for beginners in Indonesian. You can also watch this video to learn more about GitHub.
 
 4. [Peran AI dalam marketing](https://www.ekrut.com/media/7-peran-artificial-intelligence-dalam-dunia-marketing-masa-depan)  
-web that contains some of the roles of AI in the world of marketing. This website is useful for me in doing coursework, maybe it will be useful for you guys too  
+Web that contains some of the roles of AI in the world of marketing. This website is useful for me in doing coursework, maybe it will be useful for you guys too  
 
+5. [Linked list Java SDA Material](https://scele.cs.ui.ac.id/pluginfile.php/122769/mod_resource/content/0/SDA-08.linked-list-stack-queue-v3-DN.pdf)  
+Java Linked list material for SDA. This material helps me alot for the assignment. This material was given by the lecturer too.  
 ---
 Operating Systems 2021-2 [Repository](https://github.com/akmalgomal3/os212) | [Log](https://github.com/akmalgomal3/os212/blob/master/TXT/mylog.txt) | [Page](https://akmalgomal3.github.io/os212/) | [LINKS](https://akmalgomal3.github.io/os212/LINKS/)

@@ -49,11 +49,11 @@ ZCZC W03 180 L11 Assignment #01 Read OSC10 chapter 13, chapter 14, and chapter 1
 ZCZC W03 100 L12 Assignment #02 Try Demos
 ZCZC W03 60 L13 Assignment #03 Try Previous MidTem Problems
 ZCZC W03 40 L02 Zoom Meetings
-ZCZC W03 60 L14 Assignment #04 Check if your î.bash_aliasesî file is up-todate.
+ZCZC W03 60 L14 Assignment #04 Check if your ÔøΩ.bash_aliasesÔøΩ file is up-todate.
 ZCZC W03 150 L15 Assignment #05 Add/Create An Extra Virtual Disk
-ZCZC W03 60 L16 Assignment #06 Update your bookmark links. See C.B. Kadalís îLINKS/î
+ZCZC W03 60 L16 Assignment #06 Update your bookmark links. See C.B. KadalÔøΩs ÔøΩLINKS/ÔøΩ
 ZCZC W03 60 L17 Assignment #07 Review your peer links.
-ZCZC W03 60 L18 Assignment #08 Update your log. See C.B. Kadalís îmylog.txtî
+ZCZC W03 60 L18 Assignment #08 Update your log. See C.B. KadalÔøΩs ÔøΩmylog.txtÔøΩ
 ZCZC W03 60 L19 Assignment #09 Submit Your Week 03 Assignment.
 ZCZC W03 60 L19 Assignment #09 Submit Your Week 03 Assignment.
 ZCZC W04 15 L22 Quiz3_Week02
@@ -64,8 +64,21 @@ ZCZC W04 180 L12 Assignment #02 Try Demos in https://github.com/UI-FASILKOM-OS/S
 ZCZC W04 75 L13 Assignment #03 Try Previous MidTem Problems (https://rms46.vlsm.org/2/199.pdf).
 ZCZC W04 60 L14 Assignment #04 Install Package List 2 (TLPI)
 ZCZC W04 40 L02 Zoom Meetings
-ZCZC W04 120 L15 Assignment #05 Fetch and Extract File îWEEK04.tar.bz2.ascî
-ZCZC W04 70 L16 Assignment #06 Update your bookmark links. See C.B. Kadalís îLINKS/î
+ZCZC W04 120 L15 Assignment #05 Fetch and Extract File
+ZCZC W04 70 L16 Assignment #06 Update your bookmark links
 ZCZC W04 60 L17 Assignment #07 Review your peer links.
-ZCZC W04 65 L18 Assignment #08 Update your log. See C.B. Kadalís îmylog.txtî
+ZCZC W04 65 L18 Assignment #08 Update your log.
 ZCZC W04 65 L19 Assignment #09 Submit Your Week 04 Assignment.
+ZCZC W05 5 L22 Quiz4_Week04
+ZCZC W05 15 L22 Quiz4_Week04
+ZCZC W05 100 L02 Zoom Meetings
+ZCZC W05 60 L11 Assignment #01  Read OSC10 chapter 10
+ZCZC W05 160 L12 Assignment #02 Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/.
+ZCZC W05 145 L13 Assignment #03 Try Previous MidTem Problems (https://rms46.vlsm.org/2/200.pdf).
+ZCZC W05 180 L14 Assignment #04 How Low (Memory) Can You Go?
+ZCZC W05 20 L02 Zoom Meetings
+ZCZC W05 55 L15 Assignment #05 Update your bookmark links. See C.B. Kadal‚Äôs "LINKS/"
+ZCZC W05 55 L16 Assignment #06 (Optional) Any suggestions/tips for the next semester class? See C.B.
+Kadal‚Äôs "TIPS/".
+ZCZC W05 75 L17 Assignment #07 Review your peer links
+ZCZC W05 55 L18 Update your log. See C.B. Kadal‚Äôs ‚Äùmylog.txt‚Äù
